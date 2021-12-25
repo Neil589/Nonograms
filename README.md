@@ -9,7 +9,7 @@ Double clicking a shaded/elilminated cell resets it to empty.
 Once all the correct cells are shaded a sucess message is displayed to show that you have won. 
 There are also buttons to clear the whole board to restart, go to the next puzzle, go to the previous puzzle, and go to a random puzzle in the puzzle library.
 In the current puzzle library there are 5 different puzzles you can choose from however you can also add more or remove puzzles if you wish to. 
-Readme_301.md contains more instructions and details about the project.
+readme_301.md contains more instructions and details about the project.
 
 The link below contains some images of the UI and the working of it!
 
